@@ -1,0 +1,22 @@
+{
+  "name": "rightousquest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmosienski/RightousQuest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmosienski/RightousQuest/issues"
+  },
+  "homepage": "https://github.com/wmosienski/RightousQuest#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
